@@ -1,4 +1,3 @@
-# bishe1
 
 ## Project setup
 ```

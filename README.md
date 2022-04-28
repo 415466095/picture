@@ -1,0 +1,1 @@
+Integrating subjective and objective picture quality scoring platform

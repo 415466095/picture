@@ -19,8 +19,7 @@ then you can run it with:
 yarn run serve
 ```
 
-
-
+Home page:
 ![image](index.png)
 
 
